@@ -1,6 +1,8 @@
-# Singularity OS Brand
-
-This repository contains the official brand materials of **Singularity OS**. It includes logos and visual assets to be used for representing the project.
+<div align="center">
+  <img src="Icon.png" height="120">
+  <h1 align="center">Singularity OS Brand</h1>
+  <p align="center">This repository contains the official brand materials of **Singularity OS**. It includes logos and visual assets to be used for representing the project.</p>
+</div>
 
 ## Usage
 - Use only the logos and materials provided in this repository.
